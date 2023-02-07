@@ -1,1 +1,1 @@
-my fisrt readme
+creating repo
