@@ -1,1 +1,1 @@
-Updating my Readme file in GitHub so cool
+First-time working directly on gitbub
